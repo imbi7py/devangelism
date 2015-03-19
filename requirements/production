@@ -1,0 +1,6 @@
+django
+markdown
+psycopg2
+djangorestframework
+wsgiref
+gunicorn
